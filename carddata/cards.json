@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/c++.png",
+        "name": "c++"
+    },
+    {
+        "image": "../assets/csharp.png",
+        "name": "csharp"
+    },
+    {
+        "image": "../assets/css.png",
+        "name": "css"
+    },
+    {
+        "image": "../assets/gitlab.png",
+        "name": "gitlab"
+    },
+    {
+        "image": "../assets/html.png",
+        "name": "html"
+    },
+    {
+        "image": "../assets/java.png",
+        "name": "java"
+    },
+    {
+        "image": "../assets/javascript.png",
+        "name": "javascript"
+    },
+    {
+        "image": "../assets/php.png",
+        "name": "php"
+    },
+    {
+        "image": "../assets/scratch.png",
+        "name": "scratch"
+    }
+  ]
